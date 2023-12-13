@@ -16,7 +16,7 @@ We are one of the only student-focused microgrid research facilities in the nati
 - Workshops and trainings for students, faculty, industry partners, and community members on microgrid design, operation, and management.
 - Research projects and publications on topics such as microgrid optimization, protection, cybersecurity, and economics.
 
-## How to get involved?
+## Looking to learn more?
 
 If you are interested in learning more about our center, please visit our [website](https://engineering.stthomas.edu/industry/microgrid-research-center/) or follow us on [LinkedIn](https://www.linkedin.com/company/st-thomas-center-for-microgrid-research/) for the latest news and updates.
 
